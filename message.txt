@@ -12,4 +12,4 @@ nowa galaz
 i haslo
 boze jak ja lubie ciastka
 https://git-scm.com/download/gui/linux
-
+https://spring.io/guides/gs/serving-web-content/
