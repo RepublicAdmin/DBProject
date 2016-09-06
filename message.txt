@@ -10,3 +10,4 @@ to prawda
 dedukuj jak
 nowa galaz
 boze jak ja lubie ciastka
+https://git-scm.com/download/gui/linux
